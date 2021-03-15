@@ -5,7 +5,7 @@
     "scripts": {},
     "env": {
         "NODE_ENV": {
-            "required": true
+            "required": false
         }
     },
     "formation": {
